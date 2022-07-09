@@ -15,9 +15,9 @@
 </p>
 
 
-<div align="center" style="width: 100px; height: 200px;">
-  <a align="center" href="https://app.daily.dev/khaled_amoudi"><img align="center" src="https://api.daily.dev/devcards/78101507fab643759484ba400d8d5d2f.png?r=1f9" width="400" alt="Khaled Amoudi's Dev Card"/></a>
-</div>
+
+  <a align="center" href="https://app.daily.dev/khaled_amoudi"><img align="center" src="https://api.daily.dev/devcards/78101507fab643759484ba400d8d5d2f.png?r=1f9" width="100" alt="Khaled Amoudi's Dev Card"/></a>
+
 
 
 <hr>
