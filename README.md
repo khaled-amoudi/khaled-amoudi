@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled Amoudi</h1>
 <h3 align="center">A full-stack web developer with +3 years of experience, and I love what I do so This gives me the motivation to get results that customers want 🥰. I am also a passionate, dreamer, always excited, and love to do things in creative ways 🤯. and "If this is the last day of my life, I will learn a new skill 💪".</h3>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+
 
 - 🌱 I’m currently learning **Flutter, data analysis, etc...**
 
