@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Khaled Amoudi</h1>
-<iframe src="https://giphy.com/embed/6pfEK1odbmcNi" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/page-welcome-6pfEK1odbmcNi">via GIPHY</a></p>
 <h3 align="center">A full-stack web developer with +3 years of experience, and I love what I do so This gives me the motivation to get results that customers want 🥰. I am also a passionate, dreamer, always excited, and love to do things in creative ways 🤯. and "If this is the last day of my life, I will learn a new skill 💪".</h3>
 
 
-- 🌱 I’m currently learning **Flutter, data analysis, etc...**
+- 🌱 I’m currently learning **Inertiajs, data analysis, etc...**
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Laravel**, **Bootstrap**
 
 - 📫 How to reach me **https://www.linkedin.com/in/khaled-amoudi-73768a195/**
 
@@ -17,10 +16,10 @@
 </p>
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://app.daily.dev/khaled_amoudi"><img align="center" src="https://api.daily.dev/devcards/78101507fab643759484ba400d8d5d2f.png?r=1f9" width="200" alt="Khaled Amoudi's Dev Card"/></a>
 </div>
-
+ -->
 
 <hr>
 <h3 align="center">Languages and Tools:</h3>
