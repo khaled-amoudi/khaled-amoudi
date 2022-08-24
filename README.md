@@ -8,6 +8,11 @@
 
 - 📫 How to reach me [Khaled Amoudi](https://www.linkedin.com/in/khaled-amoudi-73768a195/)
 
+## 🛠 Skills
+Figma, HTML, CSS, Javascript, jQuery, Bootstrap, Tailwindcss, VueJs... <br>
+MySql, Php Laravel, Laravel inertiajs...<br>
+Agile, Search skills, patient, self learning...
+
 <hr>
 <h3 align="center">Connect with me:</h3>
 
@@ -59,7 +64,51 @@ khaled-amoudi
 </a> -->
 <br><br>
 
+<hr>
 
+
+
+# Projects
+
+
+<h3>imagine design</h3>
+https://imagine-design.co/en
+i build this website as a fullstack web developer and the features of this website are:
+
+<h3>Features</h3>
+
+- multi languages [AR - EN]
+- Responsive to all screens
+- all sections are editable
+- admin can control all sections in the dashboard
+- blog page
+
+
+<hr>
+
+<h3>Training system for al-esraa unversity in gaza</h3>
+i build a training system to the Nursing college in Al-Esraa Univiersity in gaza:
+
+<h3>Features</h3>
+
+- data analusis
+- Student grade sheet
+- import & export Excel files
+- Roles: Admin, Teacher
+- Record attendance and absence of students
+- Record attendance and absence of teachers
+
+
+<hr>
+
+<h3>imagine design</h3>
+https://khaled-amoudi.github.io/5VLD-004/
+i build this website as a front-end web developer using tailwindcss:
+
+<h3>Features</h3>
+
+- modern design
+- Responsive to all screens
 <!---
 khaled-amoudi/khaled-amoudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
