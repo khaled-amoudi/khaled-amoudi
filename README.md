@@ -10,16 +10,11 @@
 
 <hr>
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/5aled_amoudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5aled_amoudi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khaled-amoudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled-amoudi" height="30" width="40" /></a>
+
+<p align="center"><a href="https://twitter.com/5aled_amoudi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/khaled-amoudi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/5aled_amoudi/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
-
-<!-- <div align="center">
-  <a href="https://app.daily.dev/khaled_amoudi"><img align="center" src="https://api.daily.dev/devcards/78101507fab643759484ba400d8d5d2f.png?r=1f9" width="200" alt="Khaled Amoudi's Dev Card"/></a>
-</div>
- -->
+khaled-amoudi
 
 <hr>
 <h3 align="start">Technologies & Tools 🔧</h3>
@@ -46,8 +41,9 @@
 <br>
 
 <h3 align="start">GitHub Stats 📈</h3>
+
 <a href="https://github.com/khaled-amoudi/khaled-amoudi">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-amoudi&show_icons=true&theme=radical&locale=en&layout=compact" alt="khaled-amoudi" />
+<img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-amoudi&show_icons=true&theme=radical&locale=en&layout=compact" alt="khaled-amoudi" />
 </a>
 
 <a href="https://github.com/khaled-amoudi/khaled-amoudi">
