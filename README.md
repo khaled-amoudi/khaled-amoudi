@@ -105,6 +105,7 @@ i build this website as a front-end web developer using tailwindcss:
 
 <h3>Features</h3>
 
+- Dark/Light mode
 - modern design
 - Responsive to all screens
 <!---
