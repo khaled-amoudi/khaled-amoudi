@@ -54,11 +54,9 @@ khaled-amoudi
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaled-amoudi&theme=radical&hide_border=true)](https://github.com/khaled-amoudi" alt="khaled's GitHub Stats Graph"/>
 </a>
 
-<a href="https://github.com/khaled-amoudi/khaled-amoudi">
+<!-- <a href="https://github.com/khaled-amoudi/khaled-amoudi">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaled-amoudi&theme=dark" alt="khaled's GitHub Streak Stats"/>
-</a>
-
-
+</a> -->
 <br><br>
 
 
