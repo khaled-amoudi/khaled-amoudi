@@ -24,7 +24,7 @@ Agile, Search skills, patient, self learning...
 khaled-amoudi
 
 <hr>
-<h3 align="start">Technologies & Tools 🔧</h3>
+## Technologies & Tools 🔧
 
 ![](https://img.shields.io/badge/Code-Figma-informational?style=for-the-badge&logo=figma&logoColor=critical&color=critical)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=html5&orange=white&color=orange)
@@ -45,9 +45,8 @@ khaled-amoudi
 <br>
 
 
-<br>
 
-<h3 align="start">GitHub Stats 📈</h3>
+## GitHub Stats 📈
 
 <a href="https://github.com/khaled-amoudi/khaled-amoudi">
 <img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-amoudi&show_icons=true&theme=radical&locale=en&layout=compact" alt="khaled-amoudi" />
@@ -70,7 +69,7 @@ khaled-amoudi
 
 
 
-# Projects
+## Projects 🚀
 
 <h3>Training system for al-esraa unversity in gaza</h3>(private code)
 i build a training system to the Nursing college in Al-Esraa Univiersity in gaza:
