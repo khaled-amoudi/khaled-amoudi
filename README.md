@@ -70,6 +70,19 @@ khaled-amoudi
 
 # Projects
 
+<h3>Training system for al-esraa unversity in gaza</h3>(private code)
+i build a training system to the Nursing college in Al-Esraa Univiersity in gaza:
+
+<h3>Features</h3>
+
+- data analusis
+- Student grade sheet
+- import & export Excel files
+- Roles: Admin, Teacher
+- Record attendance and absence of students
+- Record attendance and absence of teachers
+
+<hr>
 
 <h3>imagine design</h3>
 https://imagine-design.co/en
@@ -82,22 +95,6 @@ i build this website as a fullstack web developer and the features of this websi
 - all sections are editable
 - admin can control all sections in the dashboard
 - blog page
-
-
-<hr>
-
-<h3>Training system for al-esraa unversity in gaza</h3>
-i build a training system to the Nursing college in Al-Esraa Univiersity in gaza:
-
-<h3>Features</h3>
-
-- data analusis
-- Student grade sheet
-- import & export Excel files
-- Roles: Admin, Teacher
-- Record attendance and absence of students
-- Record attendance and absence of teachers
-
 
 <hr>
 
