@@ -21,9 +21,9 @@ Agile, Search skills, patient, self learning...
 <p align="center"><a href="https://twitter.com/5aled_amoudi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/khaled-amoudi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/5aled_amoudi/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
-khaled-amoudi
 
 <hr>
+
 ## Technologies & Tools 🔧
 
 ![](https://img.shields.io/badge/Code-Figma-informational?style=for-the-badge&logo=figma&logoColor=critical&color=critical)
