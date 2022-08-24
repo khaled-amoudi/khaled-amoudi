@@ -76,7 +76,7 @@ i build a training system to the Nursing college in Al-Esraa Univiersity in gaza
 
 <h3>Features</h3>
 
-- data analusis
+- data analysis
 - Student grade sheet
 - import & export Excel files
 - Roles: Admin, Teacher
