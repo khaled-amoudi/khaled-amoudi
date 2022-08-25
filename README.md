@@ -65,7 +65,7 @@ i build a training system to the Nursing college in Al-Esraa Univiersity in gaza
 
 <hr>
 
-<h3>imagine design</h3>
+<h3>Imagine design</h3>
 https://imagine-design.co/en
 i build this website as a fullstack web developer and the features of this website are:
 
@@ -88,6 +88,18 @@ i build this website as a front-end web developer using tailwindcss:
 - Dark/Light mode
 - modern design
 - Responsive to all screens
+
+<hr>
+<h3>Simulation of news site template</h3>
+https://khaled-amoudi.github.io/5VLD-005/
+i build this website as a front-end web developer using Bootstrap5:(Still under development)
+
+<h3>Features</h3>
+
+- Dark/Light mode
+- modern design
+- Responsive to all screens
+- Clean Code
 <!---
 khaled-amoudi/khaled-amoudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
