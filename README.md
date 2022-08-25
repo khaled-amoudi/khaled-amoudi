@@ -93,7 +93,8 @@ khaled-amoudi/khaled-amoudi is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<br><hr><br>
+<br>
+<hr>
 
 
 ## GitHub Stats 📈
