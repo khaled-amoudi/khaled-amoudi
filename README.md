@@ -51,6 +51,31 @@ Agile, Search skills, patient, self learning...
 
 ## Projects 🚀
 
+<h3>Front-End Template</h3>
+https://khaled-amoudi.github.io/5VLD-004/
+i build this website as a front-end web developer using tailwindcss:
+
+<h3>Features</h3>
+
+- Dark/Light mode
+- modern design
+- Responsive to all screens
+
+<hr>
+
+<h3>Simulation of news site template</h3>
+https://khaled-amoudi.github.io/5VLD-005/
+i build this website as a front-end web developer using Bootstrap5:(Still under development)
+
+<h3>Features</h3>
+
+- Dark/Light mode
+- modern design
+- Responsive to all screens
+- Clean Code
+
+<hr>
+
 <h3>Training system for al-esraa unversity in gaza</h3>(private code)
 i build a training system to the Nursing college in Al-Esraa Univiersity in gaza:
 
@@ -76,30 +101,6 @@ i build this website as a fullstack web developer and the features of this websi
 - all sections are editable
 - admin can control all sections in the dashboard
 - blog page
-
-<hr>
-
-<h3>Front-End Template</h3>
-https://khaled-amoudi.github.io/5VLD-004/
-i build this website as a front-end web developer using tailwindcss:
-
-<h3>Features</h3>
-
-- Dark/Light mode
-- modern design
-- Responsive to all screens
-
-<hr>
-<h3>Simulation of news site template</h3>
-https://khaled-amoudi.github.io/5VLD-005/
-i build this website as a front-end web developer using Bootstrap5:(Still under development)
-
-<h3>Features</h3>
-
-- Dark/Light mode
-- modern design
-- Responsive to all screens
-- Clean Code
 <!---
 khaled-amoudi/khaled-amoudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
