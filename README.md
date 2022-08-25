@@ -4,9 +4,6 @@
 
 <img align="right" width="200px" height="150px" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
 
-
-- 🌱 I’m currently learning **Inertiajs, data analysis, etc...**
-
 - 💬 Ask me about **Laravel**, **Bootstrap**
 
 - 📫 How to reach me [Khaled Amoudi](https://www.linkedin.com/in/khaled-amoudi-73768a195/)
@@ -14,9 +11,9 @@
 <br>
 
 ## 🛠 Skills
-✔️ Figma, HTML, CSS, Javascript, jQuery, Bootstrap, Tailwindcss, VueJs... <br>
-✔️ MySql, Php Laravel, Laravel inertiajs...<br>
-✔️ Agile, Search skills, patient, self learning...
+✔️ [ Front End ] => Figma, HTML, CSS, Javascript, jQuery, Bootstrap, Tailwindcss, VueJs... <br>
+✔️ [ Back End ] => MySql, Php Laravel, Laravel inertiajs...<br>
+✔️ [ Software Skills ] => Agile, Search skills, patient, self learning...
 
 <hr>
 <h3 align="center">Connect with me:</h3>
@@ -53,7 +50,7 @@
 
 ## 🚀 Projects 
 
-<h3>Front-End Template</h3>
+<h3>Web page design using tailwindcss</h3>
 https://khaled-amoudi.github.io/5VLD-004/
 i build this website as a front-end web developer using tailwindcss:
 
