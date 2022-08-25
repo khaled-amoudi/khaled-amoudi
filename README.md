@@ -27,7 +27,7 @@ Agile, Search skills, patient, self learning...
 
 <hr>
 
-## Technologies & Tools 🔧
+## 🔧 Technologies & Tools 
 
 ![](https://img.shields.io/badge/Code-Figma-informational?style=for-the-badge&logo=figma&logoColor=critical&color=critical)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=html5&orange=white&color=orange)
@@ -51,7 +51,7 @@ Agile, Search skills, patient, self learning...
 
 
 
-## Projects 🚀
+## 🚀 Projects 
 
 <h3>Front-End Template</h3>
 https://khaled-amoudi.github.io/5VLD-004/
@@ -112,7 +112,7 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 
-## GitHub Stats 📈
+## 📈 GitHub Stats 
 
 <a href="https://github.com/khaled-amoudi/khaled-amoudi">
 <img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-amoudi&show_icons=true&theme=radical&locale=en&hide_border=true&layout=compact" alt="khaled-amoudi" />
