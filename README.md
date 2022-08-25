@@ -100,7 +100,7 @@ i build this website as a fullstack web developer and the features of this websi
 
 <hr>
 
-<h3>5VLD-004</h3>
+<h3>Front-End Template</h3>
 https://khaled-amoudi.github.io/5VLD-004/
 i build this website as a front-end web developer using tailwindcss:
 
