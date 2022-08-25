@@ -65,9 +65,9 @@ i build this website as a front-end web developer using tailwindcss:
 
 <hr>
 
-<h3>Simulation of news site template</h3>(in progress)
+<h3>Simulation of news site template</h3>
 https://khaled-amoudi.github.io/5VLD-005/
-i build this website as a front-end web developer using Bootstrap5:
+i build this website as a front-end web developer using Bootstrap5: [in progress]
 
 <h3>Features</h3>
 
