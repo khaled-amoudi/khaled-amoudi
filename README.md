@@ -14,9 +14,9 @@
 <br>
 
 ## 🛠 Skills
-Figma, HTML, CSS, Javascript, jQuery, Bootstrap, Tailwindcss, VueJs... <br>
-MySql, Php Laravel, Laravel inertiajs...<br>
-Agile, Search skills, patient, self learning...
+✔️ Figma, HTML, CSS, Javascript, jQuery, Bootstrap, Tailwindcss, VueJs... <br>
+✔️ MySql, Php Laravel, Laravel inertiajs...<br>
+✔️ Agile, Search skills, patient, self learning...
 
 <hr>
 <h3 align="center">Connect with me:</h3>
