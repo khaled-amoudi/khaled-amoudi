@@ -11,6 +11,8 @@
 
 - 📫 How to reach me [Khaled Amoudi](https://www.linkedin.com/in/khaled-amoudi-73768a195/)
 
+<br>
+
 ## 🛠 Skills
 Figma, HTML, CSS, Javascript, jQuery, Bootstrap, Tailwindcss, VueJs... <br>
 MySql, Php Laravel, Laravel inertiajs...<br>
