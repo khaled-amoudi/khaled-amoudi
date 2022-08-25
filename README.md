@@ -50,7 +50,7 @@ Agile, Search skills, patient, self learning...
 ## GitHub Stats 📈
 
 <a href="https://github.com/khaled-amoudi/khaled-amoudi">
-<img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-amoudi&show_icons=true&theme=radical&locale=en&layout=compact" alt="khaled-amoudi" />
+<img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-amoudi&show_icons=true&theme=radical&locale=en&hide_border=true&layout=compact" alt="khaled-amoudi" />
 </a>
 
 <a href="https://github.com/khaled-amoudi/khaled-amoudi">
