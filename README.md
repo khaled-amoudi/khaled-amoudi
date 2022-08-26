@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled Amoudi</h1>
-<p align="center">A Full Stack Web Developer with +2 years of experience, and I love what I do so This gives me the motivation to get results that customers want 🥰. I am also a passionate, dreamer, always excited, and love to do things in creative ways 🤯.</p>
+<p align="center">A Full Stack Web Developer, and I love what I do so This gives me the motivation to get results that customers want 🥰. I am also a passionate, dreamer, always excited, and love to do things in creative ways 🤯.</p>
 
 
 <img align="right" width="200px" height="150px" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
