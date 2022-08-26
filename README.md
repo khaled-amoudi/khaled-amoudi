@@ -16,9 +16,9 @@
 ✔️ [ Software Skills ] => Agile, Search skills, patient, self learning...
 
 <hr>
-<h3 align="center">Connect with me:</h3>
+<h3 align="start">Connect with me:</h3>
 
-<p align="center"><a href="https://twitter.com/5aled_amoudi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/khaled-amoudi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/5aled_amoudi/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+<p align="start"><a href="https://twitter.com/5aled_amoudi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/khaled-amoudi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/5aled_amoudi/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
 
 
@@ -26,21 +26,36 @@
 
 ## 🔧 Technologies & Tools 
 
-![](https://img.shields.io/badge/Code-Figma-informational?style=for-the-badge&logo=figma&logoColor=critical&color=critical)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=html5&orange=white&color=orange)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css3&logoColor=blue&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=yellow&color=yellow)
-![](https://img.shields.io/badge/Code-Vuejs-informational?style=for-the-badge&logo=vue&logoColor=brightgreen&color=brightgreen)
-![](https://img.shields.io/badge/Code-SASS-informational?style=for-the-badge&logo=sass&logoColor=ff69b4&color=ff69b4)
-![](https://img.shields.io/badge/Code-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=blueviolet&color=blueviolet)
-![](https://img.shields.io/badge/Code-Tailwindcss-informational?style=for-the-badge&logo=tailwindcss&logoColor=blue&color=blue)
-![](https://img.shields.io/badge/Tools-Laravel-informational?style=for-the-badge&logo=laravel&logoColor=red&color=red)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=blue&color=blue)
-![](https://img.shields.io/badge/Tool-Firebase-informational?style=for-the-badge&logo=firebase&logoColor=orange&color=orange)
-![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&logoColor=red&color=red)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=postman&logoColor=orange&color=orange)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=for-the-badge&logo=heroku&logoColor=blueviolet&color=blueviolet)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=blue&color=blue)
+##### Front End
+![](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=critical)
+![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=orange)
+![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=blue)
+![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Jquery-informational?style=for-the-badge&logo=jquery&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Vue-informational?style=for-the-badge&logo=vuejs&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/SASS-informational?style=for-the-badge&logo=sass&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tailwindcss-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=blue)
+
+##### Back End
+![](https://img.shields.io/badge/Laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=red)
+![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white&color=red)
+![](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=postman&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Heroku-informational?style=for-the-badge&logo=heroku&logoColor=white&color=blueviolet)
+
+##### Software Tools
+
+
+
+![](https://img.shields.io/badge/Trello-informational?style=for-the-badge&logo=trello&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Jira-informational?style=for-the-badge&logo=jira&logoColor=white&color=blue)
+![](https://img.shields.io/badge/VSCode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=blue)
+![](https://img.shields.io/badge/PHPStorme-informational?style=for-the-badge&logo=phpstorme&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Staruml-informational?style=for-the-badge&logo=staruml&logoColor=white&color=yellow)
+
+
 
 <br>
 
@@ -50,11 +65,11 @@
 
 ## 🚀 Projects 
 
-<h3>Web page design using tailwindcss</h3>
+#### Web page design using tailwindcss
 https://khaled-amoudi.github.io/5VLD-004/
 i build this website as a front-end web developer using tailwindcss:
 
-<h3>Features</h3>
+#### Features
 
 - Dark/Light mode
 - modern design
@@ -62,11 +77,11 @@ i build this website as a front-end web developer using tailwindcss:
 
 <hr>
 
-<h3>Simulation of news site template</h3>
+#### Simulation of news site template
 https://khaled-amoudi.github.io/5VLD-005/
 i build this website as a front-end web developer using Bootstrap5: [in progress]
 
-<h3>Features</h3>
+#### Features
 
 - Dark/Light mode
 - modern design
@@ -75,10 +90,10 @@ i build this website as a front-end web developer using Bootstrap5: [in progress
 
 <hr>
 
-<h3>Training system for al-esraa unversity in gaza</h3>(private code)
+#### Training system for al-esraa unversity in gaza (private code)
 i build a training system to the Nursing college in Al-Esraa Univiersity in gaza:
 
-<h3>Features</h3>
+#### Features
 
 - data analysis
 - Student grade sheet
@@ -89,11 +104,11 @@ i build a training system to the Nursing college in Al-Esraa Univiersity in gaza
 
 <hr>
 
-<h3>Imagine design</h3>
+#### Imagine design
 https://imagine-design.co/en
 i build this website as a fullstack web developer and the features of this website are:
 
-<h3>Features</h3>
+#### Features
 
 - multi languages [AR - EN]
 - Responsive to all screens
