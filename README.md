@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled Amoudi</h1>
-<p align="center">A Full Stack Web Developer, and I love what I do so This gives me the motivation to get results that customers want 🥰. I am also a passionate, dreamer, always excited, and love to do things in creative ways 🤯.</p>
+<h3 align="center">A Full Stack Web Developer, and I love what I do so This gives me the motivation to get results that customers want 🥰. I am also a passionate, dreamer, always excited, and love to do things in creative ways 🤯.</h3>
 
 
 <img align="right" width="200px" height="150px" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
@@ -79,7 +79,7 @@ i build this website as a front-end web developer using tailwindcss:
 
 #### Simulation of news site template
 https://khaled-amoudi.github.io/5VLD-005/
-i build this website as a front-end web developer using Bootstrap5: [in progress]
+I made this site as a simulation of a news site using Bootstrap5
 
 #### Features
 
