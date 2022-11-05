@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khaled Amoudi</h1>
 <h3 align="center">A Full Stack Web Developer, and I love what I do so This gives me the motivation to get results that customers want 🥰. I am also a passionate, dreamer, always excited, and love to do things in creative ways 🤯.</h3>
 
-
+<!---
 <img align="right" width="200px" height="150px" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
-
+--->
 - 💬 Ask me about **Laravel**, **Bootstrap**
 
 - 📫 How to reach me [Khaled Amoudi](https://www.linkedin.com/in/khaled-amoudi-73768a195/)
@@ -12,8 +12,8 @@
 
 ## 🛠 Skills
 ✔️ [ Front End ] => Figma, HTML, CSS, Javascript, jQuery, Bootstrap, Tailwindcss, VueJs... <br>
-✔️ [ Back End ] => MySql, Php Laravel, Laravel inertiajs...<br>
-✔️ [ Software Skills ] => Agile, Search skills, patient, self learning...
+✔️ [ Back End ] => MySql, Php Laravel, Rest API (postman),...<br>
+✔️ [ Software Skills ] => Agile, clickup, Search skills, patient, self learning...
 
 <hr>
 <h3 align="start">Connect with me:</h3>
