@@ -65,28 +65,18 @@
 
 ## 🚀 Projects 
 
-#### Web page design using tailwindcss
-https://khaled-amoudi.github.io/5VLD-004/
-i build this website as a front-end web developer using tailwindcss:
+####  Bees for Palestine organization (private code)
+I am a web team leader of Bees4Palestine system (web + mobile app), its a social platform to support the palistinian cause.
 
 #### Features
 
-- Dark/Light mode
-- modern design
-- Responsive to all screens
-
-<hr>
-
-#### Simulation of news site template
-https://khaled-amoudi.github.io/5VLD-005/
-I made this site as a simulation of a news site using Bootstrap5
-
-#### Features
-
-- Dark/Light mode
-- modern design
-- Responsive to all screens
-- Clean Code
+- Manage platfomrs
+- Manage Missions
+- Provide RESTful APIs for the mobile application
+- Show users statistics
+- Realtime notifications
+- import & export Excel files
+- Roles: Admin, Super User, User
 
 <hr>
 
@@ -115,6 +105,33 @@ i build this website as a fullstack web developer and the features of this websi
 - all sections are editable
 - admin can control all sections in the dashboard
 - blog page
+
+<hr>
+
+#### Web page design using tailwindcss
+https://khaled-amoudi.github.io/5VLD-004/
+i build this website as a front-end web developer using tailwindcss:
+
+#### Features
+
+- Dark/Light mode
+- modern design
+- Responsive to all screens
+
+<hr>
+
+#### Simulation of news site template
+https://khaled-amoudi.github.io/5VLD-005/
+I made this site as a simulation of a news site using Bootstrap5
+
+#### Features
+
+- Dark/Light mode
+- modern design
+- Responsive to all screens
+- Clean Code
+
+<hr>
 <!---
 khaled-amoudi/khaled-amoudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
