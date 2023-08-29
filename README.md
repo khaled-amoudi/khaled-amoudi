@@ -12,7 +12,7 @@
 
 ## 🛠 Skills
 ✔️ [ Front End ] => Figma, HTML, CSS, Javascript, jQuery, Bootstrap, Tailwindcss, VueJs... <br>
-✔️ [ Back End ] => MySql, Php Laravel, Rest API (postman),...<br>
+✔️ [ Back End ] => MySql, Php Laravel, Rest API (postman), Livewire3,...<br>
 ✔️ [ Software Skills ] => Agile, clickup, Search skills, patient, self learning...
 
 <hr>
