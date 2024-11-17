@@ -6,7 +6,7 @@
 --->
 - 💬 Ask me about **Laravel**, **Bootstrap**
 
-- 📫 How to reach me [Khaled Amoudi](https://www.linkedin.com/in/khaled-amoudi-73768a195/)
+- 📫 How to reach me [Khaled Amoudi](https://khaledamoudi.com/)
 
 <br>
 
